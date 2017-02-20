@@ -3,7 +3,7 @@
 ----------------
 |School project| 
 ----------------
-|Beta Edition| 
+| Beta Edition| 
 ----------------
 
 # FinallCKarin17648
