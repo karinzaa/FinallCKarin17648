@@ -4,7 +4,7 @@
 |School project| 
 |--------------|
 | Beta Edition | 
-|--------------|
+
 
 # FinallCKarin17648
 
