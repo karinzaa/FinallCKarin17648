@@ -1,10 +1,10 @@
 ![Imgur](http://i.imgur.com/zz7iqIM.png)
 
-----------------
+
 |School project| 
-----------------
-| Beta Edition| 
-----------------
+|--------------|
+| Beta Edition | 
+|--------------|
 
 # FinallCKarin17648
 
